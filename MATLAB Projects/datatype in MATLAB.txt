@@ -1,0 +1,19 @@
+Data Type	Description
+
+int8		8-bit signed integer
+uint8		8-bit unsigned integer
+int16		16-bit signed integer
+uint16		16-bit unsigned integer
+int32		32-bit signed integer
+uint32		32-bit unsigned integer
+int64		64-bit signed integer
+uint64		64-bit unsigned integer
+single		single precision numerical data
+double		double precision numerical data
+logical		logical values of 1 or 0, represent true and false respectively
+char		character data (strings are stored as vector of characters)
+cell array	array of indexed cells, each capable of storing an array of a different dimension and data type
+structure	C-like structures, each structure having named fields capable of storing an array of a different dimension and data type
+            function handle	pointer to a function
+user classes	objects constructed from a user-defined class
+java classes	objects constructed from a Java class
